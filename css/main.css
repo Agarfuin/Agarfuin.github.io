@@ -1495,9 +1495,14 @@ header .logo a {
 	padding-top: 12rem;
 	padding-bottom: 1rem;
 }
+
 #about .section-intro {
 	margin-bottom: 0rem;
 }
+  
+.section-intro img {
+	width: 100%;
+  }
 
 .intro-info {
 	margin-top: 4.2rem;
